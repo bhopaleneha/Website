@@ -1,0 +1,45 @@
+are u writing your code in notepad?
+YES
+Can u use visual studio code for the next task?
+YES
+I HAVE IT 
+Then why didn't u use it?
+like till now i worked with notepad that's why
+No other specific reason right?
+no no no other reason
+okay. Can u run your html for me?
+yes
+
+kiya maine run
+okay. for inspect u can use shortcut control shift i or do it from the side, like i'll show u now
+i've never used edge.so i'll directly try the shortcut here
+okay
+this is how u can go to inspect
+do u want me to repeat the steps?
+yes plz just once
+okay
+got it
+let's try using the shortcut too
+okay
+works. if u want close it and try both the methods and decide what's convenient
+yes let me try once
+i m ok with shortcut only...
+hahaa. me too
+i have a doubt 
+forgot your password shift kaise hua eidhar
+the design you've made is not responsive. Wait let's get on a call. i'll be able to explain u better ando qkuaicker there
+okay
+just call me
+ok
+
+
+
+
+**media queries (w3schools)
+materialize  antdesign
+grid
+
+github pull push 
+
+ 
+
